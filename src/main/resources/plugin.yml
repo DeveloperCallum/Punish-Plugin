@@ -1,0 +1,7 @@
+name: PunishmentPlugin
+version: ${project.version}
+main: com.munchymc.punishmentplugin.bukkit.PunishMainClass
+
+commands:
+  punish:
+    description: Base command.
