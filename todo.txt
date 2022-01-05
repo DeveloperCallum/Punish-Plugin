@@ -1,7 +1,0 @@
-Fix commands, use punish -> command -> subcommands/args format to keep the flow of commands.
-Create sub commands for permissions.
-create GUI interface for permissions (use SubCommands)
-
-Check that args is not null, after having its first index removed.
-
-Create permission should register the perm so it can be used.
